@@ -11,5 +11,5 @@ I am interested in the following technologies
 
 [![My Skills](https://skillicons.dev/icons?i=bash,deno,nextjs,react,tailwind,ts,prisma,git,rust)](https://skillicons.dev)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nowuX&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nowuX&theme=radical)
+![GitHub stats](https://readme-stats-nowux.vercel.app/api?username=nowuX&show_icons=true&theme=radical)
+![Top Langs](https://readme-stats-nowux.vercel.app/api/top-langs/?username=nowuX&theme=radical)
