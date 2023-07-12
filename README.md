@@ -2,10 +2,9 @@
 
 I'm Nowu 👍
 
-- 🔭 I’m currently working on side projects like auto-mc-server.py
-- 🌱 I’m currently learning JS/TS, NextJS and Rust, also english 🚀
-- 📫 How to reach me: I'm not very active on social networks but I usually use discord 🥱
-- 😄 Pronouns: he/him or any, I don't care.
+- 🔭 I’m currently working on nothing, I should stop being lazy 😔
+- 🌱 I’m currently learning TS, NextJS and Rust 🚀
+- 📫 How to reach me: I'm not very active on social networks 😴
 
 I am interested in the following technologies
 
